@@ -1,0 +1,30 @@
+[
+    {
+        "Player ID": 2,
+        "Name": "adhitya chinni",
+        "Country": "india",
+        "Role": "batsmen",
+        "Team": "spartans"
+    },
+    {
+        "Player ID": 3,
+        "Name": "chanakya",
+        "Country": "inida",
+        "Role": "batsmen",
+        "Team": "spartans"
+    },
+    {
+        "Player ID": 4,
+        "Name": "sathish",
+        "Country": "india",
+        "Role": "all-rounder",
+        "Team": "isha"
+    },
+    {
+        "Player ID": 1,
+        "Name": "nikhil reddy",
+        "Country": "",
+        "Role": "",
+        "Team": ""
+    }
+]
